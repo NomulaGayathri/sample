@@ -1,0 +1,10 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 086B-E7C6
+
+ Directory of C:\Git hub( i creater)\my projects git
+
+02-09-2021  09:34    <DIR>          .
+02-09-2021  09:34    <DIR>          ..
+02-09-2021  09:34                 0 text123.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  626,851,045,376 bytes free
